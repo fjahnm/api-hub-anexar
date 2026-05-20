@@ -299,8 +299,6 @@ api-hub-anexar/
 
 ## Status
 
-**Current status:** In development / initial production phase.
-
 The project already includes the main base structure for authentication, protected routes, administrative screens, company management, user management, integration management, token management, ERP connection configuration, logs, backend API, PostgreSQL database structure, and cloud deployment.
 
 ### Implemented

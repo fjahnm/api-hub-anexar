@@ -269,11 +269,11 @@ api-hub-anexar/
 
 ### Company Registration - CNPJ
 
-<img src="./assets/screenshots/company_create-CNPJ.png" alt="Company registration using CNPJ" width="900"/>
+<img src="./assets/screenshots/company_create_CNPJ.png" alt="Company registration using CNPJ" width="900"/>
 
 ### Company Registration - CPF
 
-<img src="./assets/screenshots/company_create-CPF.png" alt="Company registration using CPF" width="900"/>
+<img src="./assets/screenshots/company_create_CPF.png" alt="Company registration using CPF" width="900"/>
 
 ### User Management
 
